@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : combineReducers from redux
+#key : crr
+#contributor : Jude Lee <judescripts@gmail.com>
+# --
+import {combineReducers} from 'redux'

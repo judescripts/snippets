@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+#name : React Constant
+#key : cons
+#contributor : Jude Lee <judescripts@gmail.com>
+# --
+const $1 = () => {
+return <div>$0</div>
+
+};
+
+export default $1;

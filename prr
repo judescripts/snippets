@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : Provider from react-redux
+#key : prr
+#contributor : Jude Lee judescripts@gmail.com 
+# --
+import { Provider } from "react-redux";

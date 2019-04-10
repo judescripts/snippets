@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : connect from react-redux
+#key : cnrr
+#contributor : Jude Lee <judescripts@gmail.com>
+# --
+import {connect} from 'react-redux';

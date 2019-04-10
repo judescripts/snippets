@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : createStore, applyMiddleware from redux
+#key : csr
+#contributor : Jude Lee <judescripts@gmail.com>
+# --
+import { createStore, applyMiddleware } from "redux"

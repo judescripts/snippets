@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : Field, reduxForm from redux-form
+#key : frr
+#contributor : Jude Lee <judescripts@gmail.com>
+# --
+import { Field, reduxForm } from "redux-form";

@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Import React
+# key: rc
+# --
+import React from 'react'
+
+export default props =>
+<$1>
+$0
+</$1>

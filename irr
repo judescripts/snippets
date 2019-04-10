@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name:React Import
+# key:irr
+# contributor: Jude Lee <judescripts@gmail.com>
+# --
+import React from 'react';

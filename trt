@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : thunk from redux-thunk
+#key : trt
+#contributor : Jude Lee <judescripts@gmail.com>
+# --
+import thunk from 'redux-thunk';

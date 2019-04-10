@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+#name : Import ReactDOM
+#key : rcd
+#contributor : Jude Lee <judescripts@gmail.com>
+# --
+import ReactDOM from 'react-dom';
+
+
+
+
+ReactDOM.render(
+<App />, document.querySelector('#root')
+);
